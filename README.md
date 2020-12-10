@@ -1,5 +1,6 @@
 ### 博客的静态资源文件
 
-作用：使用jsdelivr CDN来加速博客资源的加载速度
+<a href="https://www.jsdelivr.com"><img height="80" src="https://raw.githubusercontent.com/jsdelivr/jsdelivr-media/master/default/svg/jsdelivr-logo-horizontal.svg"></a>
+> JsDelivr CDN加速博客静态资源
 
 博客地址：[秋澪冬安](https://billsaul.gitee.io/)
